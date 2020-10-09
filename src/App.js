@@ -92,7 +92,7 @@ const App = ()  => {
 
   return (
     <Container className="p-5">
-    <h2>Wasif</h2>
+    
       <ToastContainer position="bottom-center" />
       <Row>
         <Col md={6} className="offset-md-3">
