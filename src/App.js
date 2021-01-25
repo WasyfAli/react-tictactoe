@@ -87,12 +87,13 @@ const App = ()  => {
     }
 
     checkIsWinner();
+    ackancld();
 
   };
 
   return (
     <Container className="p-5">
- <h1>Updated</h1>
+ <h1>Updated twice</h1>
       <ToastContainer position="bottom-center" />
       <Row>
         <Col md={6} className="offset-md-3">
