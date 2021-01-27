@@ -87,6 +87,7 @@ const App = ()  => {
     }
 
     checkIsWinner();
+        checkIsWinnecascascasr();
     
 
   };
