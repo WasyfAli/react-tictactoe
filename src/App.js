@@ -94,7 +94,7 @@ const App = ()  => {
 
   return (
     <Container className="p-5">
-<h1>Wasif</h1>
+<h1>Updated Application</h1>
       <ToastContainer position="bottom-center" />
       <Row>
         <Col md={6} className="offset-md-3">
