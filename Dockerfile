@@ -1,4 +1,4 @@
-# stage1 as builder
+# stage1 as builderi
 FROM node:10-alpine as builder
 
 # copy the package.json to install dependencies
