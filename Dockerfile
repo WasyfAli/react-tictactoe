@@ -31,4 +31,4 @@ EXPOSE 80
 
 ENTRYPOINT ["nginx", "-g", "daemon off;"]
 
-Now it will work
+Now it will wor
